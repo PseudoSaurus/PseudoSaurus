@@ -16,6 +16,7 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PseudoSaurus&show_icons=true&theme=gotham)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PseudoSaurus&show_icons=true&theme=gotham)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoSaurus&hide=html,assembly&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PseudoSaurus&hide=html,assembly,cmake&layout=pie&theme=chartreuse-dark)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/Pranesh-2005/github-readme-stats)
